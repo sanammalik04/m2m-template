@@ -12,18 +12,17 @@ class Hobby
         @@all
     end
 
-    def hobbies
+    def add_hobby
+        #adds a hobby
+    end
+
+    def people_doing_this_hobby
         #show me the persons hobby or hobbies if there are more then one
-        #Person.hobbies => ["swimming", "reading"]
-        PersonHobby.all
+      
     end
 
-    def method3
-        
-        
-    end
 
-    def method4
+    def self.find_by_name
     end
 
 

@@ -12,14 +12,16 @@ def self.all
     @@all
 end
 
-def hobbies
-    
+def add_person
+    #adds a person
 end
 
-def method3
+def hobbies_this_person_has
+    # shows all the hobbies of that person if more then one
 end
 
-def method4
+
+def self.find_by_name
 end
 
 
